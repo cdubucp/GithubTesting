@@ -1,3 +1,3 @@
 # GithubTesting
-Git Testing
+Git Testing\n
 This is a test
